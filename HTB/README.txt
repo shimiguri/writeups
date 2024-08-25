@@ -1,6 +1,6 @@
                                                   **********HACK THE BOX**********
 
-Whenever I do a box ill try to include it here, ill only post writeups in which i was able to get both flags (user, system)... <br>
+Whenever I do a box ill try to include it here, ill only post writeups in which i was able to get both flags (user, system)... 
 If you want a specific box done or you have some feedback regarding a writeup, dm me on discord and ill see what can be done. 
 
 P.S 
